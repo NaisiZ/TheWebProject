@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Arista Admin"
+AuthUserFile "/home/goarista/.htpasswds/public_html/admin/passwd"
+require valid-user
